@@ -1,0 +1,47 @@
+
+{
+"name": "DUNE",
+"image": "https://pics.filmaffinity.com/dune-517778034-large.jpg",
+"url": "https://af1cionados.vercel.app/saga DUNE.w3u",
+"info": "bY Virgin Mary",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+		"name": "Dune",
+        "image": "https://pics.filmaffinity.com/dune-517778034-large.jpg",
+        "url": "https://byseqekaho.com/d/qkfxvk4b2cv6/dune-1984",
+       	"info": "[Español 1984]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+	{
+		"name": "Dune",
+        "image": "https://pics.filmaffinity.com/dune-209834814-large.jpg",
+        "url": "https://byseqekaho.com/d/p2e8oyl61u55/dune",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+	{
+		"name": "Dune parte dos",
+        "image": "https://pics.filmaffinity.com/dune_part_two-802143593-large.jpg",
+        "url": "https://byseqekaho.com/d/nmhp1nfcv2t7/dune-parte-dos",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	}
+]
+}
+
